@@ -12,8 +12,7 @@ assetsSummary:
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: 'Cortical Circuits for the integration of short-latency auditory pathways:
-  Medial geniculate nucleus linear probe recording (2025). (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/001421/draft'
+  MGN linear probe recording (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001421/draft'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -30,8 +29,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001421/versions/draft/assets/
-name: 'Cortical Circuits for the integration of short-latency auditory pathways: Medial
-  geniculate nucleus linear probe recording'
+name: 'Cortical Circuits for the integration of short-latency auditory pathways: MGN
+  linear probe recording'
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
