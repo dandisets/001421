@@ -6,13 +6,34 @@
 about: []
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 455615424
+  numberOfFiles: 26
+  numberOfSubjects: 26
   schemaKey: AssetsSummary
-citation: 'Cortical Circuits for the integration of short-latency auditory pathways:
-  MGN linear probe recording (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001421/draft'
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - Units
+  - ElectrodeGroup
+citation: 'Kato, Hiroyuki (2025) Cortical Circuits for the integration of short-latency
+  auditory pathways: MGN linear probe recording (Version draft) [Data set]. DANDI
+  Archive. https://dandiarchive.org/dandiset/001421/draft'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -24,6 +45,7 @@ contributor:
     schemaKey: Affiliation
   email: kato@email.unc.edu
   identifier: 0000-0002-5748-3221
+  includeInCitation: true
   name: Kato, Hiroyuki
   roleName:
   - dcite:ContactPerson
