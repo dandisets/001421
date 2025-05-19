@@ -50,6 +50,16 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: RF1NS128873
+  name: National Institute of Neurological Disorders and Stroke
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01DC017516
+  name: 'National Institute on Deafness and Other Communication Disorders '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2025-04-21T16:48:09.364843+00:00'
 description: Linear probe recordings from the mouse medial geniculate nucleus during
   click presentations. Unit activity data are included.
