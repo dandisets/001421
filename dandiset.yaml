@@ -32,8 +32,8 @@ assetsSummary:
   - Units
   - ElectrodeGroup
 citation: 'Kato, Hiroyuki (2025) Cortical Circuits for the integration of short-latency
-  auditory pathways: MGN linear probe recording (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001421/draft'
+  auditory pathways: MGN linear probe recording (Version 0.250521.2343) [Data set].
+  DANDI Archive. https://doi.org/10.48324/dandi.001421/0.250521.2343'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -64,13 +64,14 @@ dateCreated: '2025-04-21T16:48:09.364843+00:00'
 datePublished: '2025-05-21T23:43:39.141155+00:00'
 description: Linear probe recordings from the mouse medial geniculate nucleus during
   click presentations. Unit activity data are included.
+doi: 10.48324/dandi.001421/0.250521.2343
 ethicsApproval: []
-id: DANDI:001421/draft
+id: DANDI:001421/0.250521.2343
 identifier: DANDI:001421
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001421/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001421/0.250521.2343/assets.yaml
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: MGN
   linear probe recording'
 publishedBy:
@@ -89,6 +90,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001421/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001421/0.250521.2343
+version: 0.250521.2343
 wasGeneratedBy: []
